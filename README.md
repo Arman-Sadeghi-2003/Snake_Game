@@ -3,7 +3,6 @@
 A modern, feature-rich implementation of the classic Snake game built with Python and Turtle graphics. Experience smooth gameplay, beautiful visuals, and enhanced features that bring this timeless game to life!
 
 ![Snake Game Demo](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ## ✨ Features
@@ -39,8 +38,8 @@ A modern, feature-rich implementation of the classic Snake game built with Pytho
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/snake-master.git
-   cd snake-master
+   git clone https://github.com/Arman-Sadeghi-2003/Snake_Game.git
+   cd Snake_Game
    ```
 
 2. **Run the game**
@@ -102,12 +101,12 @@ if random.randint(1, 8) == 1:  # 1 in 8 chance (12.5%)
 ## 📁 Project Structure
 
 ```
-snake-master/
+Snake_Game/
 │
 ├── snake_game.py          # Main game file
 ├── snake_high_score.txt   # High score storage (auto-generated)
 ├── README.md             # You are here!
-└── LICENSE               # MIT License
+└── LICENSE               # No License
 ```
 
 ## 🤝 Contributing
@@ -136,10 +135,6 @@ Found a bug? We want to hear about it! Please open an issue with:
 - Expected vs actual behavior
 - Python version and OS
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by the classic Snake game from Nokia phones
@@ -167,7 +162,7 @@ If you enjoyed this game, please consider:
 
 **Made with ❤️ and Python**
 
-[Report Bug](https://github.com/yourusername/snake-master/issues) • [Request Feature](https://github.com/yourusername/snake-master/issues) • [Contribute](https://github.com/yourusername/snake-master/pulls)
+[Report Bug](https://github.com/Arman-Sadeghi-2003/Snake_Game/issues) • [Request Feature](https://github.com/Arman-Sadeghi-2003/Snake_Game/issues) • [Contribute](https://github.com/Arman-Sadeghi-2003/Snake_Game/pulls)
 
 </div>
 
